@@ -1,263 +1,176 @@
- <div align="center">
+<div align="center">
 
-# VIBHA NAYAK
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:3b82f6&height=220&section=header&text=Vibha%20Nayak&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20CSE%20%2727&descAlignY=60&descSize=20" width="100%" alt="Vibha Nayak banner"/>
 
-### Computer Science & Engineering Student | Full Stack Developer
-
-Building practical applications through software engineering, problem-solving and AI.
+<a href="https://github.com/vibharnayak/RAGPDF">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=640&lines=Building+practical+software+with+code+and+AI;Learning+by+building+%E2%80%94+one+project+at+a+time;Java+%C2%B7+Python+%C2%B7+React+%C2%B7+Node.js+%C2%B7+GenAI" alt="Typing animation"/>
+</a>
 
 <br/>
 
-<a href="https://github.com/vibharnayak">
-<img src="https://img.shields.io/badge/GitHub-vibharnayak-181717?style=flat-square&logo=github"/>
-</a>
-<a href="https://www.linkedin.com/in/vibha-nayak-b97a59405/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin"/>
-</a>
-<a href="mailto:nayakvibha03@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vibha-nayak-b97a59405/)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayakvibha03@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-vibharnayak-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vibharnayak)
+![Profile views](https://komarev.com/ghpvc/?username=vibharnayak&style=for-the-badge&color=3b82f6&label=PROFILE+VIEWS)
+
+<sub>[About](#-about) · [Tech Stack](#-tech-stack) · [Projects](#-featured-projects) · [Focus](#-current-focus) · [Stats](#-github-analytics) · [Connect](#-lets-connect)</sub>
 
 </div>
 
----
+<br/>
 
-## ABOUT ME
+## 👋 About
 
-I'm a Computer Science and Engineering student interested in Full Stack Development and Artificial Intelligence.
+I'm a **Computer Science & Engineering student (Class of 2027)** who enjoys turning ideas into working software. My approach is project-driven: build it, break it, improve it.
 
-I enjoy building practical applications, exploring new technologies, solving programming problems and understanding how software systems work.
+My interests sit at the intersection of **full stack development** and **applied AI** — from RAG pipelines and ML analysis to responsive web apps with clean backends.
 
-My approach is project-driven. I believe in learning by building, improving through experience and developing solutions that address real-world problems.
+```yaml
+role:        CSE Student · Aspiring Software Developer
+graduating:  2027
+building:    Full stack apps and AI-powered tools
+strengthening: [Java & OOP, Data Structures & Algorithms, SQL & Database Design]
+exploring:   [Generative AI, RAG, Multimodal ML]
+philosophy:  Learn by building. Improve through iteration.
+```
 
-- Computer Science & Engineering student — 2027
-- Interested in Full Stack Development
-- Exploring Artificial Intelligence and Generative AI
-- Strengthening Java and Object-Oriented Programming
-- Learning database design and backend development
-- Focused on problem-solving and continuous improvement
+<br/>
 
----
+## 🛠 Tech Stack
 
-## TECHNICAL SKILLS
+<div align="center">
 
-### Programming Languages
+| | Technologies |
+|:--|:--|
+| **Languages** | ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=py) ![C](https://skillicons.dev/icons?i=c) ![JavaScript](https://skillicons.dev/icons?i=js) |
+| **Frontend** | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![React](https://skillicons.dev/icons?i=react) ![Vite](https://skillicons.dev/icons?i=vite) ![Tailwind](https://skillicons.dev/icons?i=tailwind) |
+| **Backend** | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Flask](https://skillicons.dev/icons?i=flask) |
+| **Databases** | ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![SQLite](https://skillicons.dev/icons?i=sqlite) |
+| **AI & Data** | ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![Pandas](https://skillicons.dev/icons?i=pandas) ![NumPy](https://skillicons.dev/icons?i=numpy) ![OpenCV](https://skillicons.dev/icons?i=opencv) |
+| **Tools** | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode) |
 
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
+</div>
 
-### Frontend Development
+<br/>
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-</p>
-
-### Backend Development
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-</p>
-
-### AI & Data
-
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white"/>
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-</p>
-
----
-
-## FEATURED PROJECTS
-
-A selection of projects demonstrating my interests in software development, AI and practical problem-solving.
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 01. RAGPDF
+#### 📄 [RAGPDF](https://github.com/vibharnayak/RAGPDF)
+**AI-powered PDF question answering**
 
-**AI-Powered PDF Question Answering**
-
-An application that allows users to upload PDF documents and ask questions based on their content using Retrieval-Augmented Generation.
-
-**Technologies**
+Upload a PDF and ask questions about its content using Retrieval-Augmented Generation.
 
 `Python` `LangChain` `FAISS` `Hugging Face` `Streamlit`
 
-<a href="https://github.com/vibharnayak/RAGPDF">View Project →</a>
-
 </td>
 <td width="50%" valign="top">
 
-### 02. Customer Churn Analysis
+#### 📊 [Customer Churn Analysis](https://github.com/vibharnayak/CHURN_ANALYSIS)
+**Machine learning & data analysis**
 
-**Machine Learning & Data Analysis**
+Analyzes customer data to uncover churn patterns and evaluate predictive models.
 
-A machine learning project focused on analyzing customer data, identifying churn patterns and exploring predictive models.
-
-**Technologies**
-
-`Python` `Pandas` `NumPy` `Jupyter Notebook`
-
-<a href="https://github.com/vibharnayak/CHURN_ANALYSIS">View Project →</a>
+`Python` `Pandas` `NumPy` `Jupyter`
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### 03. NexusTask Pro
+#### ✅ [NexusTask Pro](https://github.com/vibharnayak/TODO)
+**Full stack task management app**
 
-**Full Stack Task Management Application**
+Organize tasks, track progress and stay productive through an interactive interface.
 
-A task management application designed to organize tasks, track progress and improve productivity through an interactive interface.
-
-**Technologies**
-
-`React` `Vite` `Node.js` `Express.js` `MongoDB`
-
-<a href="https://github.com/vibharnayak/TODO">View Project →</a>
+`React` `Vite` `Node.js` `Express` `MongoDB`
 
 </td>
 <td width="50%" valign="top">
 
-### 04. Developer Portfolio
+#### 🌐 [Developer Portfolio](https://github.com/vibharnayak/PORTFOLIO)
+**Personal portfolio website**
 
-**Personal Portfolio Website**
-
-A responsive portfolio website showcasing technical skills, projects, professional background and development journey.
-
-**Technologies**
+A responsive site showcasing skills, projects and development journey.
 
 `HTML` `CSS` `JavaScript`
 
-<a href="https://github.com/vibharnayak/PORTFOLIO">View Project →</a>
-
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### 05. TriSense Mind
+#### 🧠 [TriSense Mind](https://github.com/vibharnayak)
+**Multimodal emotion analysis**
 
-**Multimodal Emotion Analysis**
-
-An AI project exploring emotion analysis using multiple observable signals, including text, voice and facial expressions.
-
-**Technologies**
+Explores emotion analysis across text, voice and facial expressions.
 
 `Python` `OpenCV` `NLP` `Machine Learning`
-
-<a href="https://github.com/vibharnayak">Explore Repository →</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 06. Fake Product Detector
+#### 🔍 [Fake Product Detector](https://github.com/vibharnayak)
+**Product authenticity analysis**
 
-**Product Authenticity Analysis**
+Explores product verification via barcode scanning, OCR and visual analysis.
 
-A web application exploring product verification through barcode scanning, OCR and visual product analysis.
-
-**Technologies**
-
-`JavaScript` `ZXing` `Tesseract OCR` `LocalStorage`
-
-<a href="https://github.com/vibharnayak">Explore Repository →</a>
+`JavaScript` `ZXing` `Tesseract OCR`
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## CURRENT FOCUS
+## 🎯 Current Focus
 
-| Area | Focus |
-|---|---|
-| Software Development | Java and Object-Oriented Programming |
-| Full Stack Development | Frontend and Backend |
-| Problem Solving | Data Structures & Algorithms |
-| Databases | SQL and Database Fundamentals |
-| Artificial Intelligence | AI/ML and Generative AI |
+| Area | What I'm working on |
+|:--|:--|
+| ☕ **Software Development** | Java and Object-Oriented Programming |
+| 🧩 **Problem Solving** | Data Structures & Algorithms |
+| 🖥 **Full Stack** | Frontend + backend architecture |
+| 🗄 **Databases** | SQL and database fundamentals |
+| 🤖 **AI / ML** | Generative AI, RAG and applied machine learning |
 
----
+<br/>
 
-## GITHUB STATISTICS
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vibharnayak&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vibharnayak&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&title_color=3b82f6&icon_color=3b82f6" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibharnayak&layout=compact&hide_border=true&theme=transparent&langs_count=6&title_color=3b82f6" alt="Top languages"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibharnayak&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Most used programming languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vibharnayak&bg_color=0d1117&color=58a6ff&line=3b82f6&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub contribution activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vibharnayak&bg_color=0d1117&color=58a6ff&line=3b82f6&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution activity"/>
 
 </div>
 
----
+<br/>
 
-## CAREER OBJECTIVE
+## 🧭 Career Objective
 
-I aspire to grow as a software developer by working on meaningful projects, strengthening my technical foundation and contributing to collaborative development teams.
+I aspire to grow as a software developer by working on meaningful projects, strengthening my technical foundation and contributing to collaborative teams. I'm looking for opportunities to apply what I know, learn from experienced engineers and ship practical software.
 
-I'm interested in opportunities where I can apply my knowledge, learn from experienced professionals and build practical software solutions.
+<br/>
 
----
+## 🤝 Let's Connect
 
-## LET'S CONNECT
-
-I'm always interested in connecting with developers, collaborating on ideas and exploring opportunities in software development.
+Open to internships, collaborations and conversations about software and AI.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/vibha-nayak-b97a59405/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vibha-nayak-b97a59405/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayakvibha03@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vibharnayak)
 
-<a href="mailto:nayakvibha03@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br/>
 
-<a href="https://github.com/vibharnayak">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<sub>**Building skills. Creating solutions. Growing through code.**</sub>
 
-<br/><br/>
-
-**BUILDING SKILLS. CREATING SOLUTIONS. GROWING THROUGH CODE.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:3b82f6&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>
