@@ -1,148 +1,314 @@
-<div align="center">
+ <div align="center">
 
-<sub>PORTFOLIO &nbsp;·&nbsp; 2026</sub>
+# Hi, I'm Vibha Nayak 👋
 
-# Vibha Nayak
+### Computer Science & Engineering Student | Full Stack Developer
 
-**Full Stack Developer in the making — with a soft spot for AI.**
+Building practical web applications, exploring AI, and strengthening software engineering fundamentals.
 
-Computer Science & Engineering student, class of 2027.<br/>
-I build things end to end: the interface, the API, the database, and sometimes the model behind it.
+<br>
 
-<br/>
+<a href="https://www.linkedin.com/in/vibha-nayak-b97a59405/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vibha_Nayak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vibha-nayak-b97a59405/)
-[![Gmail](https://img.shields.io/badge/Gmail-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayakvibha03@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-vibharnayak-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vibharnayak?tab=repositories)
+<a href="mailto:nayakvibha03@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/vibharnayak">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
-<br/>
+---
 
-> [!NOTE]
-> **How I work:** pick a problem, build a working version, then keep improving it. Every project below is a step in that loop, and each one taught me something I use in the next.
+## 👩‍💻 About Me
 
-<br/>
+I'm a **Computer Science & Engineering student** focused on **Full Stack Development** and building practical software applications.
 
-## ▍ The Build Log
+I enjoy working across the frontend and backend, solving programming problems, working with databases, and exploring AI-powered applications. My approach is project-driven — I learn concepts by applying them to real applications and continuously improving my technical foundation.
 
-Six projects, each with the problem I wanted to solve, what I built, and the tools I used.
+- 🎓 Computer Science & Engineering student
+- 💻 Focused on **Full Stack Development**
+- 🧩 Strengthening **Data Structures & Algorithms**
+- ☕ Improving **Java and Object-Oriented Programming**
+- 🗄️ Building stronger **SQL and database fundamentals**
+- 🤖 Exploring **AI/ML and Generative AI**
+- 🚀 Building practical projects to develop real-world skills
+- 🎯 Preparing for opportunities in **Software & Full Stack Development**
 
-<br/>
+---
 
-### `01` &nbsp; RAGPDF
-**Problem —** Long PDFs are slow to search and skim.<br/>
-**Build —** An app where you upload a PDF and ask questions about it. It retrieves the relevant passages first, then answers from them.<br/>
-**Stack —** `Python` `LangChain` `FAISS` `Hugging Face` `Streamlit`<br/>
-**→** [Open repository](https://github.com/vibharnayak/RAGPDF)
+# 🛠️ Technical Skills
 
-<br/>
+## 💻 Programming Languages
 
-### `02` &nbsp; Customer Churn Analysis
-**Problem —** Businesses lose customers without seeing it coming.<br/>
-**Build —** A machine learning workflow that analyses customer data and predicts who is likely to leave.<br/>
-**Stack —** `Python` `Pandas` `NumPy` `Jupyter Notebook`<br/>
-**→** [Open repository](https://github.com/vibharnayak/CHURN_ANALYSIS)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+</p>
 
-<br/>
+## 🎨 Frontend Development
 
-### `03` &nbsp; Full Stack ToDo
-**Problem —** Tasks need to survive a page refresh.<br/>
-**Build —** A full-stack task manager to create, manage and organise tasks, with data stored in a database.<br/>
-**Stack —** `JavaScript` `Node.js` `Express.js` `MongoDB`<br/>
-**→** [Open repository](https://github.com/vibharnayak/TODO)
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+</p>
 
-<br/>
+## ⚙️ Backend Development
 
-### `04` &nbsp; TriSense Mind
-**Problem —** People express emotion in more than one way.<br/>
-**Build —** A multimodal AI application that explores analysis across text, voice and facial expressions in one place.<br/>
-**Stack —** `React` `TypeScript` `Vite` `Tailwind CSS` `Python` `Flask`<br/>
-**→** [Browse my GitHub](https://github.com/vibharnayak)
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+</p>
 
-<br/>
+## 🗄️ Databases
 
-### `05` &nbsp; Fake Product Detector
-**Problem —** Counterfeit products are hard to spot by eye.<br/>
-**Build —** A web application exploring automated authenticity checks through image-based analysis.<br/>
-**Stack —** `Python` `Node.js` `Express.js` `MongoDB` `SQLite`<br/>
-**→** [Browse my GitHub](https://github.com/vibharnayak)
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+</p>
 
-<br/>
+## 🤖 AI / Data
 
-### `06` &nbsp; Developer Portfolio
-**Problem —** A résumé can't show how I build.<br/>
-**Build —** A responsive site presenting my skills, projects and development experience.<br/>
-**Stack —** `HTML` `CSS` `JavaScript`<br/>
-**→** [Open repository](https://github.com/vibharnayak/PORTFOLIO)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white"/>
+</p>
 
-<br/>
+## 🔧 Tools
 
-## ▍ Stack Map
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-**Where I build**
+<td width="50%">
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,nodejs,express,flask,mongodb,mysql,sqlite&perline=7" alt="Build stack"/>
+## 🤖 RAGPDF
+
+### Retrieval-Augmented PDF Question Answering
+
+An AI-powered application that allows users to upload PDF documents and ask questions based on their content using a retrieval-based question-answering approach.
+
+**Tech Stack**
+
+`Python` `LangChain` `FAISS` `Hugging Face` `Streamlit`
+
+<br>
+
+<a href="https://github.com/vibharnayak/RAGPDF">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
-<td width="50%" valign="top">
 
-**Where I explore**
+<td width="50%">
 
-<img src="https://skillicons.dev/icons?i=py,java,c,tensorflow,pandas,numpy&perline=6" alt="Languages and AI"/>
+## 📊 Customer Churn Analysis
 
-<br/>
+### Machine Learning Prediction
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=6" alt="Tools"/>
+A machine learning project focused on analyzing customer data and predicting customer churn using data processing and machine learning techniques.
+
+**Tech Stack**
+
+`Python` `Pandas` `NumPy` `Jupyter Notebook`
+
+<br>
+
+<a href="https://github.com/vibharnayak/CHURN_ANALYSIS">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 📝 Full Stack ToDo
+
+### Task Management Application
+
+A full-stack web application for creating, managing and organizing tasks with persistent database storage.
+
+**Tech Stack**
+
+`JavaScript` `Node.js` `Express.js` `MongoDB`
+
+<br>
+
+<a href="https://github.com/vibharnayak/TODO">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## 🌐 Developer Portfolio
+
+### Responsive Personal Portfolio
+
+A responsive portfolio website showcasing technical skills, projects, certifications and development experience.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+
+<br>
+
+<a href="https://github.com/vibharnayak/PORTFOLIO">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🧠 TriSense Mind
+
+### Multimodal AI Application
+
+An AI project exploring multimodal analysis using **text, voice and facial expressions** within a unified application.
+
+**Tech Stack**
+
+`React` `TypeScript` `Vite` `Tailwind CSS` `Python` `Flask`
+
+<br>
+
+<a href="https://github.com/vibharnayak">
+<img src="https://img.shields.io/badge/View_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## 🔍 Fake Product Detector
+
+### AI-Assisted Product Analysis
+
+A web application exploring automated product authenticity detection through image-based analysis.
+
+**Tech Stack**
+
+`Python` `Node.js` `Express.js` `MongoDB` `SQLite`
+
+<br>
+
+<a href="https://github.com/vibharnayak">
+<img src="https://img.shields.io/badge/View_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
 </tr>
 </table>
 
-<br/>
+---
 
-## ▍ Now · Next · Later
-
-| | Focus | What it means |
-|:-:|:--|:--|
-| 🟢 **Now** | Data Structures & Algorithms | Regular problem solving to sharpen my thinking |
-| 🟢 **Now** | Java & OOP | A stronger object-oriented foundation |
-| 🟡 **Next** | SQL & database design | Better schemas and queries behind my backends |
-| 🟡 **Next** | Backend & APIs | Cleaner, more scalable server-side code |
-| 🔵 **Later** | Generative AI & ML | Practical AI features inside full-stack apps |
-
-<br/>
-
-## ▍ Activity
+# 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/1f6feb/vibharnayak" alt="GitHub contribution graph" width="92%"/>
+<a href="https://github.com/vibharnayak">
 
-<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vibharnayak&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
-![Followers](https://img.shields.io/github/followers/vibharnayak?style=flat-square&logo=github&label=Followers&color=1f6feb&labelColor=0d1117)
-![Repositories](https://img.shields.io/github/repositories/vibharnayak?style=flat-square&logo=github&label=Repositories&color=1f6feb&labelColor=0d1117)
+</a>
 
 </div>
 
-<br/>
+---
 
-## ▍ What I'm Looking For
-
-> [!TIP]
-> I'm seeking **Software Development and Full Stack roles** where I can apply what I've learned to real problems, contribute to a team, and keep growing as an engineer.
-
-<br/>
+# 🎯 Current Focus
 
 <div align="center">
 
-**[nayakvibha03@gmail.com](mailto:nayakvibha03@gmail.com)**
+| Area | Current Focus |
+|:---:|:---|
+| 💻 | **Full Stack Web Development** |
+| 🧩 | **Data Structures & Algorithms** |
+| ☕ | **Java & Object-Oriented Programming** |
+| 🗄️ | **SQL & Database Fundamentals** |
+| ⚙️ | **Backend Development & APIs** |
+| 🤖 | **AI/ML & Generative AI** |
 
-<sub>Code &nbsp;•&nbsp; Learn &nbsp;•&nbsp; Build &nbsp;•&nbsp; Improve</sub>
+</div>
+
+---
+
+# 🌱 What I'm Working Towards
+
+- Strengthening **DSA and problem-solving**
+- Improving **Java and OOP fundamentals**
+- Building stronger **SQL and database knowledge**
+- Developing better **backend development skills**
+- Building complete and scalable **full-stack applications**
+- Exploring practical **AI/ML applications**
+- Preparing for **Software Development and Full Stack roles**
+
+---
+
+# 💼 Career Objective
+
+I am looking for opportunities in **Software Development and Full Stack Development** where I can apply my technical knowledge to real-world problems, contribute to development teams, and continue developing strong software engineering skills.
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/vibha-nayak-b97a59405/">
+<img src="https://img.shields.io/badge/LinkedIn-Vibha_Nayak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:nayakvibha03@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-nayakvibha03%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/vibharnayak">
+<img src="https://img.shields.io/badge/GitHub-vibharnayak-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### `Code • Learn • Build • Improve`
 
 </div>
