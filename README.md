@@ -1,133 +1,148 @@
 <div align="center">
 
-<br/>
+<sub>PORTFOLIO &nbsp;·&nbsp; 2026</sub>
 
-<h1>VIBHA NAYAK</h1>
+# Vibha Nayak
 
-<p><b>Full Stack Developer &nbsp;·&nbsp; AI Enthusiast &nbsp;·&nbsp; Computer Science Engineering '27</b></p>
+**Full Stack Developer in the making — with a soft spot for AI.**
 
-<p><i>I build practical software — from clean web apps to AI-powered tools.</i></p>
-
-<p>
-<a href="https://www.linkedin.com/in/vibha-nayak-b97a59405/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:nayakvibha03@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/vibharnayak?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
-</p>
+Computer Science & Engineering student, class of 2027.<br/>
+I build things end to end: the interface, the API, the database, and sometimes the model behind it.
 
 <br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vibha_Nayak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vibha-nayak-b97a59405/)
+[![Gmail](https://img.shields.io/badge/Gmail-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayakvibha03@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-vibharnayak-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vibharnayak?tab=repositories)
 
 </div>
 
----
+<br/>
 
-### 01 &nbsp;/&nbsp; INTRODUCTION
+> [!NOTE]
+> **How I work:** pick a problem, build a working version, then keep improving it. Every project below is a step in that loop, and each one taught me something I use in the next.
 
-I'm a Computer Science & Engineering student graduating in 2027, with a focus on **full stack development** and **applied artificial intelligence**.
+<br/>
 
-I learn by building. Each project below started as a question — *can I make this work?* — and became a chance to sharpen my engineering fundamentals, from data structures and databases to APIs and machine learning pipelines.
+## ▍ The Build Log
 
----
+Six projects, each with the problem I wanted to solve, what I built, and the tools I used.
 
-### 02 &nbsp;/&nbsp; WHAT I WORK WITH
+<br/>
+
+### `01` &nbsp; RAGPDF
+**Problem —** Long PDFs are slow to search and skim.<br/>
+**Build —** An app where you upload a PDF and ask questions about it. It retrieves the relevant passages first, then answers from them.<br/>
+**Stack —** `Python` `LangChain` `FAISS` `Hugging Face` `Streamlit`<br/>
+**→** [Open repository](https://github.com/vibharnayak/RAGPDF)
+
+<br/>
+
+### `02` &nbsp; Customer Churn Analysis
+**Problem —** Businesses lose customers without seeing it coming.<br/>
+**Build —** A machine learning workflow that analyses customer data and predicts who is likely to leave.<br/>
+**Stack —** `Python` `Pandas` `NumPy` `Jupyter Notebook`<br/>
+**→** [Open repository](https://github.com/vibharnayak/CHURN_ANALYSIS)
+
+<br/>
+
+### `03` &nbsp; Full Stack ToDo
+**Problem —** Tasks need to survive a page refresh.<br/>
+**Build —** A full-stack task manager to create, manage and organise tasks, with data stored in a database.<br/>
+**Stack —** `JavaScript` `Node.js` `Express.js` `MongoDB`<br/>
+**→** [Open repository](https://github.com/vibharnayak/TODO)
+
+<br/>
+
+### `04` &nbsp; TriSense Mind
+**Problem —** People express emotion in more than one way.<br/>
+**Build —** A multimodal AI application that explores analysis across text, voice and facial expressions in one place.<br/>
+**Stack —** `React` `TypeScript` `Vite` `Tailwind CSS` `Python` `Flask`<br/>
+**→** [Browse my GitHub](https://github.com/vibharnayak)
+
+<br/>
+
+### `05` &nbsp; Fake Product Detector
+**Problem —** Counterfeit products are hard to spot by eye.<br/>
+**Build —** A web application exploring automated authenticity checks through image-based analysis.<br/>
+**Stack —** `Python` `Node.js` `Express.js` `MongoDB` `SQLite`<br/>
+**→** [Browse my GitHub](https://github.com/vibharnayak)
+
+<br/>
+
+### `06` &nbsp; Developer Portfolio
+**Problem —** A résumé can't show how I build.<br/>
+**Build —** A responsive site presenting my skills, projects and development experience.<br/>
+**Stack —** `HTML` `CSS` `JavaScript`<br/>
+**→** [Open repository](https://github.com/vibharnayak/PORTFOLIO)
+
+<br/>
+
+## ▍ Stack Map
 
 <table>
 <tr>
-<td width="22%"><b>Languages</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=java,py,c,js&perline=8" alt="Languages"/>
+<td width="50%" valign="top">
+
+**Where I build**
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,nodejs,express,flask,mongodb,mysql,sqlite&perline=7" alt="Build stack"/>
+
 </td>
-</tr>
-<tr>
-<td><b>Frontend</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind&perline=8" alt="Frontend"/>
-</td>
-</tr>
-<tr>
-<td><b>Backend</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask&perline=8" alt="Backend"/>
-</td>
-</tr>
-<tr>
-<td><b>Databases</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&perline=8" alt="Databases"/>
-</td>
-</tr>
-<tr>
-<td><b>AI & Data</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=tensorflow,pandas,numpy,opencv&perline=8" alt="AI and Data"/>
-</td>
-</tr>
-<tr>
-<td><b>Tools</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=8" alt="Tools"/>
+<td width="50%" valign="top">
+
+**Where I explore**
+
+<img src="https://skillicons.dev/icons?i=py,java,c,tensorflow,pandas,numpy&perline=6" alt="Languages and AI"/>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=6" alt="Tools"/>
+
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-### 03 &nbsp;/&nbsp; SELECTED WORK
+## ▍ Now · Next · Later
 
-| &nbsp; | Project | What it does | Built with |
-|:-:|:--|:--|:--|
-| **I** | **[RAGPDF](https://github.com/vibharnayak/RAGPDF)** | Upload a PDF and ask questions about it using Retrieval-Augmented Generation. | `Python` `LangChain` `FAISS` `Hugging Face` `Streamlit` |
-| **II** | **[NexusTask Pro](https://github.com/vibharnayak/TODO)** | Full stack task manager to organize work and track progress. | `React` `Vite` `Node.js` `Express` `MongoDB` |
-| **III** | **[Customer Churn Analysis](https://github.com/vibharnayak/CHURN_ANALYSIS)** | Finds churn patterns in customer data and explores predictive models. | `Python` `Pandas` `NumPy` `Jupyter` |
-| **IV** | **[TriSense Mind](https://github.com/vibharnayak)** | Multimodal emotion analysis across text, voice and facial expressions. | `Python` `OpenCV` `NLP` `ML` |
-| **V** | **[Fake Product Detector](https://github.com/vibharnayak)** | Product verification through barcode scanning, OCR and visual analysis. | `JavaScript` `ZXing` `Tesseract OCR` |
-| **VI** | **[Developer Portfolio](https://github.com/vibharnayak/PORTFOLIO)** | Responsive personal site showcasing my skills and projects. | `HTML` `CSS` `JavaScript` |
-
----
-
-### 04 &nbsp;/&nbsp; CURRENTLY
-
-<details open>
-<summary><b>Where my time is going</b></summary>
+| | Focus | What it means |
+|:-:|:--|:--|
+| 🟢 **Now** | Data Structures & Algorithms | Regular problem solving to sharpen my thinking |
+| 🟢 **Now** | Java & OOP | A stronger object-oriented foundation |
+| 🟡 **Next** | SQL & database design | Better schemas and queries behind my backends |
+| 🟡 **Next** | Backend & APIs | Cleaner, more scalable server-side code |
+| 🔵 **Later** | Generative AI & ML | Practical AI features inside full-stack apps |
 
 <br/>
 
-- **Java & Object-Oriented Programming** — building a stronger foundation
-- **Data Structures & Algorithms** — daily problem-solving practice
-- **SQL & database design** — schemas, queries and backend integration
-- **Generative AI** — retrieval, embeddings and LLM-powered applications
-
-</details>
-
----
-
-### 05 &nbsp;/&nbsp; GITHUB
+## ▍ Activity
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/vibharnayak?style=flat-square&logo=github&label=Followers&color=3b82f6&labelColor=0f172a" alt="Followers"/>
-<img src="https://img.shields.io/github/repositories/vibharnayak?style=flat-square&logo=github&label=Repositories&color=3b82f6&labelColor=0f172a" alt="Repositories"/>
-<img src="https://img.shields.io/github/stars/vibharnayak?style=flat-square&logo=github&label=Stars&color=3b82f6&labelColor=0f172a" alt="Stars"/>
+<img src="https://ghchart.rshah.org/1f6feb/vibharnayak" alt="GitHub contribution graph" width="92%"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://ghchart.rshah.org/3b82f6/vibharnayak" alt="Contribution graph" width="92%"/>
+![Followers](https://img.shields.io/github/followers/vibharnayak?style=flat-square&logo=github&label=Followers&color=1f6feb&labelColor=0d1117)
+![Repositories](https://img.shields.io/github/repositories/vibharnayak?style=flat-square&logo=github&label=Repositories&color=1f6feb&labelColor=0d1117)
 
 </div>
 
----
+<br/>
 
-### 06 &nbsp;/&nbsp; LET'S WORK TOGETHER
+## ▍ What I'm Looking For
 
-I'm looking for opportunities to contribute to real projects, learn from experienced engineers and grow as a software developer. If you're building something interesting — or just want to talk about code and AI — I'd love to hear from you.
+> [!TIP]
+> I'm seeking **Software Development and Full Stack roles** where I can apply what I've learned to real problems, contribute to a team, and keep growing as an engineer.
+
+<br/>
 
 <div align="center">
 
-<br/>
-
 **[nayakvibha03@gmail.com](mailto:nayakvibha03@gmail.com)**
 
-<sub>Building skills. Creating solutions. Growing through code.</sub>
-
-<br/>
+<sub>Code &nbsp;•&nbsp; Learn &nbsp;•&nbsp; Build &nbsp;•&nbsp; Improve</sub>
 
 </div>
