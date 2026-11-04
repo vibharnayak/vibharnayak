@@ -1,17 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:3b82f6&height=220&section=header&text=Vibha%20Nayak&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20CSE%20%2727&descAlignY=60&descSize=20" width="100%" alt="Vibha Nayak banner"/>
+# Vibha Nayak
 
-<a href="https://github.com/vibharnayak/RAGPDF">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=640&lines=Building+practical+software+with+code+and+AI;Learning+by+building+%E2%80%94+one+project+at+a+time;Java+%C2%B7+Python+%C2%B7+React+%C2%B7+Node.js+%C2%B7+GenAI" alt="Typing animation"/>
-</a>
+### Full Stack Developer · AI Enthusiast · CSE '27
+
+*Building practical software with code and AI — learning by building, one project at a time.*
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vibha-nayak-b97a59405/)
 [![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayakvibha03@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-vibharnayak-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vibharnayak)
-![Profile views](https://komarev.com/ghpvc/?username=vibharnayak&style=for-the-badge&color=3b82f6&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/vibharnayak?style=for-the-badge&logo=github&color=3b82f6&labelColor=0f172a)
+![Public repos](https://img.shields.io/github/repositories/vibharnayak?style=for-the-badge&logo=github&color=3b82f6&labelColor=0f172a)
 
 <sub>[About](#-about) · [Tech Stack](#-tech-stack) · [Projects](#-featured-projects) · [Focus](#-current-focus) · [Stats](#-github-analytics) · [Connect](#-lets-connect)</sub>
 
@@ -25,14 +26,30 @@ I'm a **Computer Science & Engineering student (Class of 2027)** who enjoys turn
 
 My interests sit at the intersection of **full stack development** and **applied AI** — from RAG pipelines and ML analysis to responsive web apps with clean backends.
 
-```yaml
-role:        CSE Student · Aspiring Software Developer
-graduating:  2027
-building:    Full stack apps and AI-powered tools
-strengthening: [Java & OOP, Data Structures & Algorithms, SQL & Database Design]
-exploring:   [Generative AI, RAG, Multimodal ML]
-philosophy:  Learn by building. Improve through iteration.
-```
+> *"Learn by building. Improve through iteration."*
+
+<table>
+<tr>
+<td width="30%"><b>🎓 &nbsp;Education</b></td>
+<td>B.E. in Computer Science & Engineering — Class of 2027</td>
+</tr>
+<tr>
+<td><b>💼 &nbsp;Aspiring role</b></td>
+<td>Software Developer — Full Stack & AI-driven applications</td>
+</tr>
+<tr>
+<td><b>🔨 &nbsp;Currently building</b></td>
+<td>Full stack web apps and AI-powered tools</td>
+</tr>
+<tr>
+<td><b>📚 &nbsp;Strengthening</b></td>
+<td>Java & OOP · Data Structures & Algorithms · SQL & Database Design</td>
+</tr>
+<tr>
+<td><b>🔭 &nbsp;Exploring</b></td>
+<td>Generative AI · Retrieval-Augmented Generation · Multimodal ML</td>
+</tr>
+</table>
 
 <br/>
 
@@ -142,10 +159,16 @@ Explores product verification via barcode scanning, OCR and visual analysis.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vibharnayak&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&title_color=3b82f6&icon_color=3b82f6" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibharnayak&layout=compact&hide_border=true&theme=transparent&langs_count=6&title_color=3b82f6" alt="Top languages"/>
+![Total stars](https://img.shields.io/github/stars/vibharnayak?style=flat-square&logo=github&label=Stars&color=3b82f6&labelColor=0f172a)
+![Followers](https://img.shields.io/github/followers/vibharnayak?style=flat-square&logo=github&label=Followers&color=3b82f6&labelColor=0f172a)
+![Repositories](https://img.shields.io/github/repositories/vibharnayak?style=flat-square&logo=github&label=Repositories&color=3b82f6&labelColor=0f172a)
+![Last commit](https://img.shields.io/github/last-commit/vibharnayak/RAGPDF?style=flat-square&logo=git&label=Last%20commit&color=3b82f6&labelColor=0f172a)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vibharnayak&bg_color=0d1117&color=58a6ff&line=3b82f6&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution activity"/>
+<br/>
+
+**Contribution graph**
+
+<img src="https://ghchart.rshah.org/3b82f6/vibharnayak" alt="Contribution graph" width="90%"/>
 
 </div>
 
@@ -170,7 +193,5 @@ Open to internships, collaborations and conversations about software and AI.
 <br/>
 
 <sub>**Building skills. Creating solutions. Growing through code.**</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:3b82f6&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>
