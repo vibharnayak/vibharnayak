@@ -1,146 +1,164 @@
+ <div align="center">
+
+# VIBHA NAYAK
+### ENGINEERING THE UNEXPECTED.
+
+`COMPUTER SCIENCE` / `SOFTWARE DEVELOPMENT` / `ARTIFICIAL INTELLIGENCE`
+
+<br/>
+
+**I don't just learn technologies. I turn what I learn into things that work.**
+
+[GitHub](https://github.com/vibharnayak) · [LinkedIn](https://www.linkedin.com/in/vibha-nayak-b97a59405/) · [Email](mailto:nayakvibha03@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0B10&height=3" width="100%"/>
+
+`IDENTITY 001` &nbsp; `DEVELOPER PROFILE` &nbsp; `2026`
+
+</div>
+
+---
+
+## 01 / THE PERSON BEHIND THE PIXELS
+
+I'm **Vibha Nayak**, a Computer Science and Engineering student interested in the engineering behind useful digital products.
+
+I enjoy exploring how software systems work, building applications from ideas, and experimenting with technologies that create meaningful solutions.
+
+My development interests revolve around three areas:
+
+- **Software Engineering** — writing structured code and developing practical applications.
+- **Full Stack Development** — understanding the complete journey from interface to backend.
+- **Artificial Intelligence** — exploring intelligent systems and multimodal applications.
+
+I believe technical growth comes from building, breaking, understanding and rebuilding.
+
+---
+
+## 02 / THE TOOLKIT
+
+*Technologies I work with and continue to explore.*
+
+| CATEGORY | TECHNOLOGIES |
+|---|---|
+| Languages | Java · Python · JavaScript · C |
+| Frontend | HTML · CSS · React · Vite |
+| Backend | Node.js · Express.js · Flask |
+| Databases | MongoDB · MySQL · SQLite |
+| AI & Data | Pandas · NumPy · NLP · Generative AI |
+| Tools | Git · GitHub · VS Code |
+
+---
+
+## 03 / SELECTED EXPERIMENTS
+
+*Every project represents a problem explored and a concept put into practice.*
+
+### [01] RAGPDF
+**DOCUMENT INTELLIGENCE**
+
+An application that allows users to upload PDF documents and ask questions about their content through a Retrieval-Augmented Generation approach.
+
+`Python` `LangChain` `FAISS` `Hugging Face` `Streamlit`
+
+[EXPLORE REPOSITORY →](https://github.com/vibharnayak/RAGPDF)
+
+---
+
+### [02] CUSTOMER CHURN ANALYSIS
+**PREDICTIVE ANALYTICS**
+
+A machine learning project focused on customer behaviour, data analysis and identifying patterns associated with customer churn.
+
+`Python` `Pandas` `NumPy` `Jupyter Notebook`
+
+[EXPLORE REPOSITORY →](https://github.com/vibharnayak/CHURN_ANALYSIS)
+
+---
+
+### [03] NEXUSTASK PRO
+**PRODUCTIVITY & TASK MANAGEMENT**
+
+A full-stack task management application designed to organize tasks, manage activities and improve productivity.
+
+`React` `Vite` `Node.js` `Express.js` `MongoDB`
+
+[EXPLORE REPOSITORY →](https://github.com/vibharnayak/TODO)
+
+---
+
+### [04] TRISENSE MIND
+**MULTIMODAL EMOTION ANALYSIS**
+
+An AI project exploring emotion analysis through text, voice and facial expressions.
+
+`Python` `OpenCV` `NLP` `Machine Learning`
+
+[EXPLORE MY GITHUB →](https://github.com/vibharnayak)
+
+---
+
+### [05] FAKE PRODUCT DETECTOR
+**PRODUCT AUTHENTICITY ANALYSIS**
+
+A product verification application exploring barcode scanning, OCR, product information and visual anomaly analysis.
+
+`JavaScript` `ZXing` `Tesseract OCR` `LocalStorage`
+
+[EXPLORE MY GITHUB →](https://github.com/vibharnayak)
+
+---
+
+## 04 / CURRENT DEVELOPMENT LOG
+
+| FOCUS | DIRECTION |
+|---|---|
+| Programming | Strengthening Java and OOP |
+| Problem Solving | Data Structures & Algorithms |
+| Full Stack | Frontend, backend and APIs |
+| Databases | SQL and database management |
+| AI | Exploring practical AI/ML applications |
+
+---
+
+## 05 / ENGINEERING PHILOSOPHY
+
+> Learn beyond the classroom.  
+> Build beyond the tutorial.  
+> Think beyond the obvious.
+
+I value consistency, experimentation and understanding the reasoning behind the code rather than simply making something work.
+
+My goal is to become a capable software developer who can contribute to real-world products and collaborative engineering teams.
+
+---
+
+## 06 / ESTABLISH A CONNECTION
+
+Interested in software development, technology, collaboration or exchanging ideas?
+
+Let's connect.
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B10,50:2D1B69,100:6D5BFF&height=220&section=header&text=Vibha%20Nayak&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Engineering%20the%20unexpected.&descAlignY=60&descSize=20" width="100%" alt="Vibha Nayak"/>
+
 <a href="https://github.com/vibharnayak">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=9D8BFF&center=true&vCenter=true&width=800&height=40&lines=CSE+Student+%7C+Class+of+2027;Full+Stack+Developer+in+the+making;Building+with+AI+and+Generative+AI;I+turn+what+I+learn+into+things+that+work." alt="Typing intro"/>
+<img src="https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<br/>
-<a href="https://github.com/vibharnayak"><img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/vibha-nayak-b97a59405/"><img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=9D8BFF" alt="LinkedIn"/></a>
-<a href="mailto:nayakvibha03@gmail.com"><img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
- 
-</div>
-<br/>
-## `> whoami`
- 
-```js
-const vibha = {
-  role: "Computer Science & Engineering Student",
-  graduating: 2027,
-  interests: ["Full Stack Development", "Artificial Intelligence", "Generative AI"],
-  currentlyStrengthening: ["Java & OOP", "Data Structures & Algorithms", "SQL & Databases"],
-  philosophy: "Build beyond the tutorial.",
-  lookingFor: "Real-world products and collaborative engineering teams",
-};
-```
- 
-I believe technical growth comes from **building, breaking, understanding and rebuilding.** I care less about making something work and more about understanding *why* it works.
- 
-<br/>
-## `> ls ./toolkit`
- 
-<table>
-  <tr>
-    <td width="150"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=java,python,js,c" alt="Languages"/></td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,react,vite" alt="Frontend"/></td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,flask" alt="Backend"/></td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" alt="Databases"/></td>
-  </tr>
-  <tr>
-    <td><b>AI &amp; Data</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=pandas,numpy" alt="AI and Data"/><br/>
-      <code>NLP</code> <code>Generative AI</code> <code>LangChain</code> <code>FAISS</code>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools"/></td>
-  </tr>
-</table>
-<br/>
-## `> cat ./projects`
- 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📄 RAGPDF</h3>
-      <b>Document Intelligence</b>
-      <p>Upload a PDF and ask questions about it. Answers come from the document itself using a Retrieval-Augmented Generation pipeline.</p>
-      <code>Python</code> <code>LangChain</code> <code>FAISS</code> <code>Hugging Face</code> <code>Streamlit</code>
-      <p><a href="https://github.com/vibharnayak/RAGPDF"><b>View Repository →</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>✅ NexusTask Pro</h3>
-      <b>Productivity &amp; Task Management</b>
-      <p>A full-stack task manager to organize work, track activities and stay productive.</p>
-      <code>React</code> <code>Vite</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code>
-      <p><a href="https://github.com/vibharnayak/TODO"><b>View Repository →</b></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 Customer Churn Analysis</h3>
-      <b>Predictive Analytics</b>
-      <p>A machine learning project that studies customer behaviour and surfaces the patterns linked to churn.</p>
-      <code>Python</code> <code>Pandas</code> <code>NumPy</code> <code>Jupyter Notebook</code>
-      <p><a href="https://github.com/vibharnayak/CHURN_ANALYSIS"><b>View Repository →</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 TriSense Mind</h3>
-      <b>Multimodal Emotion Analysis</b>
-      <p>Explores emotion detection across three channels: text, voice and facial expressions.</p>
-      <code>Python</code> <code>OpenCV</code> <code>NLP</code> <code>Machine Learning</code>
-      <p><a href="https://github.com/vibharnayak"><b>Explore on GitHub →</b></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🔍 Fake Product Detector</h3>
-      <b>Product Authenticity Analysis</b>
-      <p>A verification app that combines barcode scanning, OCR, product information and visual anomaly analysis to help judge whether a product is genuine.</p>
-      <code>JavaScript</code> <code>ZXing</code> <code>Tesseract OCR</code> <code>LocalStorage</code>
-      <p><a href="https://github.com/vibharnayak"><b>Explore on GitHub →</b></a></p>
-    </td>
-  </tr>
-</table>
-<br/>
-## `> git log --stats`
- 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vibharnayak&show_icons=true&hide_border=true&bg_color=0B0B10&title_color=9D8BFF&icon_color=6D5BFF&text_color=D4D4D8" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibharnayak&layout=compact&hide_border=true&bg_color=0B0B10&title_color=9D8BFF&text_color=D4D4D8" alt="Top languages"/>
-</div>
-<br/>
-## `> tail -f ./development.log`
- 
-| Focus | Direction | Status |
-|:--|:--|:--|
-| ☕ Programming | Strengthening Java and OOP | 🟣 In progress |
-| 🧩 Problem Solving | Data Structures & Algorithms | 🟣 In progress |
-| 🌐 Full Stack | Frontend, backend and APIs | 🟣 In progress |
-| 🗄️ Databases | SQL and database management | 🟣 In progress |
-| 🤖 AI | Practical AI / ML applications | 🟣 Exploring |
- 
-<br/>
-## `> echo $PHILOSOPHY`
- 
-> **Learn beyond the classroom.**
-> **Build beyond the tutorial.**
-> **Think beyond the obvious.**
- 
-I value consistency, experimentation and understanding the reasoning behind the code. My goal is to grow into a capable software developer who contributes to real-world products and works well in collaborative teams.
- 
-<br/>
-## `> ./connect.sh`
- 
-Interested in software development, AI, collaboration or just exchanging ideas? Reach out.
- 
-<div align="center">
-<a href="https://github.com/vibharnayak"><img src="https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/vibha-nayak-b97a59405/"><img src="https://img.shields.io/badge/LINKEDIN-18181B?style=for-the-badge&logo=linkedin&logoColor=9D8BFF" alt="LinkedIn"/></a>
-<a href="mailto:nayakvibha03@gmail.com"><img src="https://img.shields.io/badge/EMAIL-18181B?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
- 
+<a href="https://www.linkedin.com/in/vibha-nayak-b97a59405/">
+<img src="https://img.shields.io/badge/LINKEDIN-18181B?style=for-the-badge&logo=linkedin&logoColor=9D8BFF"/>
+</a>
+<a href="mailto:nayakvibha03@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-18181B?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
 <br/><br/>
- 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5BFF,50:2D1B69,100:0B0B10&height=120&section=footer&text=Think%20differently.%20Build%20intentionally.&fontColor=ffffff&fontSize=18&fontAlignY=65" width="100%" alt="Footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0B10&height=3" width="100%"/>
+
+### THINK DIFFERENTLY. BUILD INTENTIONALLY.
+
+`VIBHA NAYAK` / `END OF PROFILE`
+
 </div>
