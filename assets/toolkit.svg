@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="255" viewBox="0 0 1000 255" role="img" aria-labelledby="t">
+<title id="t">Technology toolkit</title>
+<rect width="1000" height="255" rx="18" fill="#0B1222" stroke="#263B61"/>
+<text x="30" y="39" fill="#F3F6FC" font-family="Arial" font-size="22" font-weight="700">TECH TOOLKIT</text>
+<g font-family="Arial" font-size="14" font-weight="600" text-anchor="middle">
+<g transform="translate(30 62)">
+<text x="0" y="0" fill="#79B8FF" text-anchor="start" font-size="12" letter-spacing="2">PROGRAMMING</text>
+<g transform="translate(0 15)">
+<rect width="130" height="42" rx="8" fill="#142642" stroke="#3276D5"/><text x="65" y="26" fill="#EAF2FF">C</text>
+<rect x="140" width="130" height="42" rx="8" fill="#142642" stroke="#3276D5"/><text x="205" y="26" fill="#EAF2FF">Python</text>
+<rect x="280" width="130" height="42" rx="8" fill="#142642" stroke="#3276D5"/><text x="345" y="26" fill="#EAF2FF">Core Java</text>
+</g></g>
+<g transform="translate(30 143)">
+<text x="0" y="0" fill="#79B8FF" text-anchor="start" font-size="12" letter-spacing="2">FRONTEND</text>
+<g transform="translate(0 15)">
+<rect width="130" height="42" rx="8" fill="#142642" stroke="#3276D5"/><text x="65" y="26" fill="#EAF2FF">HTML</text>
+<rect x="140" width="130" height="42" rx="8" fill="#142642" stroke="#3276D5"/><text x="205" y="26" fill="#EAF2FF">CSS</text>
+<rect x="280" width="130" height="42" rx="8" fill="#142642" stroke="#3276D5"/><text x="345" y="26" fill="#EAF2FF">JavaScript</text>
+</g></g>
+<g transform="translate(490 62)">
+<text x="0" y="0" fill="#FF8291" text-anchor="start" font-size="12" letter-spacing="2">BACKEND & DATABASE</text>
+<g transform="translate(0 15)">
+<rect width="205" height="42" rx="8" fill="#2B1929" stroke="#B44B60"/><text x="102" y="26" fill="#FFEAF0">Java Full Stack</text>
+<rect x="215" width="145" height="42" rx="8" fill="#2B1929" stroke="#B44B60"/><text x="287" y="26" fill="#FFEAF0">MySQL</text>
+</g></g>
+<g transform="translate(490 143)">
+<text x="0" y="0" fill="#FF8291" text-anchor="start" font-size="12" letter-spacing="2">DEVELOPMENT TOOL</text>
+<g transform="translate(0 15)">
+<rect width="205" height="42" rx="8" fill="#142642" stroke="#3276D5"/><text x="102" y="26" fill="#EAF2FF">Visual Studio Code</text>
+</g></g>
+</g></svg>

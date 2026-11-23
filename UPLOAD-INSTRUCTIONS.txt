@@ -1,0 +1,24 @@
+GITHUB PROFILE README PACKAGE
+
+1. Open https://github.com/vibharnayak
+2. Open the repository named exactly: vibharnayak
+   (This must be the special profile repository matching your username.)
+3. Extract this ZIP file on your computer.
+4. Upload README.md and the entire assets folder to the ROOT of that repository.
+5. Commit the changes to the default branch.
+6. Refresh your GitHub profile.
+
+Keep the folder structure:
+  README.md
+  assets/
+    intro.svg
+    right-now.svg
+    toolkit.svg
+    card.svg
+    say-hi.svg
+
+Notes:
+- The graphics are original SVG artwork and do not use a personal photograph.
+- The featured project cards use GitHub Readme Stats external image URLs; if that service is unavailable, the repository links in the README still work.
+- Project descriptions are intentionally conservative where repository implementation details were not independently confirmed.
+- Check that the special profile repository is public if you want the README visible to everyone.

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="190" viewBox="0 0 1000 190" role="img" aria-labelledby="t">
+<title id="t">Developer snapshot for Vibha Nayak</title>
+<rect width="1000" height="190" rx="18" fill="#0B1222" stroke="#263B61"/>
+<rect x="25" y="25" width="950" height="140" rx="13" fill="#111F39"/>
+<circle cx="105" cy="95" r="48" fill="#172F55" stroke="#4389E8" stroke-width="2"/>
+<text x="105" y="110" fill="#DCEBFF" font-family="Arial" font-size="42" font-weight="700" text-anchor="middle">V</text>
+<g font-family="Arial">
+<text x="180" y="66" fill="#F4F7FC" font-size="25" font-weight="700">Vibha Nayak</text>
+<text x="180" y="92" fill="#86BFFF" font-size="15">Computer Science Engineering Student</text>
+<text x="180" y="119" fill="#B8C6DA" font-size="14">Project Builder  •  AI Explorer  •  Continuous Learner</text>
+<text x="180" y="143" fill="#7F91AB" font-size="12">Focused on learning, building and solving practical problems.</text>
+</g>
+<path d="M830 48 V142" stroke="#304B75" stroke-width="1"/>
+<text x="865" y="78" fill="#78B6FF" font-family="Arial" font-size="12" letter-spacing="2" text-anchor="middle">MINDSET</text>
+<text x="865" y="108" fill="#F4F7FC" font-family="Arial" font-size="17" font-weight="700" text-anchor="middle">LEARN</text>
+<text x="865" y="130" fill="#F4F7FC" font-family="Arial" font-size="17" font-weight="700" text-anchor="middle">BUILD</text>
+</svg>

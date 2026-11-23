@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="175" viewBox="0 0 1000 175" role="img" aria-labelledby="t">
+<title id="t">Say hello and connect with Vibha</title>
+<rect width="1000" height="175" rx="18" fill="#0B1222" stroke="#263B61"/>
+<circle cx="95" cy="88" r="55" fill="#142642" stroke="#3276D5" stroke-width="2"/>
+<text x="95" y="106" fill="#EAF2FF" font-family="Arial" font-size="49" font-weight="700" text-anchor="middle">Hi!</text>
+<g font-family="Arial">
+<text x="180" y="65" fill="#F4F7FC" font-size="25" font-weight="700">Have an idea or want to collaborate?</text>
+<text x="180" y="96" fill="#AAB9D0" font-size="15">I'd be glad to connect, learn and exchange ideas.</text>
+<text x="180" y="128" fill="#78B6FF" font-size="14">GITHUB  •  LINKEDIN</text>
+</g>
+<path d="M790 88 H925" stroke="#315A96" stroke-width="2" stroke-dasharray="5 7"/>
+<circle cx="925" cy="88" r="6" fill="#FF5266"/>
+</svg>
